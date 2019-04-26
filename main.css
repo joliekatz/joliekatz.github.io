@@ -104,26 +104,26 @@ footer li img {
 }
 #firstfav{
   font-size:30px;
-  font-weight:200;
+  font-weight:300;
   color:royalblue;
   text-align:center;
 }
 #secondfav{
-  font-size:29px;
-  font-weight:200;
-  color:green;
+  font-size:30px;
+  font-weight:300;
+  color:royalblue;
   text-align:center;
 }
 #thirdfav{
-  font-size:28px;
+  font-size:30px;
   font-weight:300;
   color:hotpink;
   text-align:center;
 } 
 #fourthfav{
-  font-size:27px;
-  font-weight:400;
-  color:turquoise;
+  font-size:30px;
+  font-weight:300;
+  color:hotpink;
   text-align:center;
 }
 #quotes{
